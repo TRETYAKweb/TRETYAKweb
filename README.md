@@ -2,11 +2,11 @@
 
 ### I'm a FrontEnd Developer, and UI/UX Designer
 
-### Статистика на GitHub
+### Statistics on GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TRETYAKweb&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
-### Мой стек технологий
+### My technology stack
 
 ![JS](https://img.shields.io/badge/-JavaScript_-f5da55?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,8 +22,6 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRETYAKweb&layout=compact&theme=dark)
-
 ### UI/UX Designe & Graphic Designe
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
@@ -34,6 +32,8 @@
 ![AdobeLightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tretyak_design)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRETYAKweb&layout=compact&theme=dark)
 
 <!--
 **TRETYAKweb/TRETYAKweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

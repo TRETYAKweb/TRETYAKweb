@@ -31,9 +31,17 @@
 ![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![AdobeLightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tretyak_design)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/tretyak_design)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRETYAKweb&layout=compact&theme=dark)
+
+### Contacts
+
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=fff)](https://github.com/TRETYAKweb)
+[![Instagram](https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/tretyak_bro)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/tretyak_bro)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tretyak_design)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/tretyak_design)
 
 <!--
 **TRETYAKweb/TRETYAKweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/>, I'm Yevhenii
+# Hey There! <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/> I'm Yevhenii
 
 ### I'm a FrontEnd Developer, and UI/UX Designer
 

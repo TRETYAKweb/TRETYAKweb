@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yevhenii
+# Hi there <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/>, I'm Yevhenii
 
 ### I'm a FrontEnd Developer, and UI/UX Designer
 
@@ -40,8 +40,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=fff)](https://github.com/TRETYAKweb)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/tretyak_bro)
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/tretyak_bro)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tretyak_design)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/tretyak_design)
+[![Behance](https://img.shields.io/badge/Behance-333?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tretyak_design)
+[![Dribbble](https://img.shields.io/badge/Dribbble-333?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/tretyak_design)
 
 <!--
 **TRETYAKweb/TRETYAKweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

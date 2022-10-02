@@ -14,13 +14,12 @@
 ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=flat&logo=jQuery&logoColor=blue)
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=flat&logo=Gulp)
-![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=1572B6)
-![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=nodedotjs)
-![npm](https://img.shields.io/badge/-npm-white?style=flat&logo=npm)
-![ESLint](https://img.shields.io/badge/-ESLint-white?style=flat&logo=eslint&logoColor=4B32C3)
-![Stylelint](https://img.shields.io/badge/-Stylelint-white?style=flat&logo=stylelint&logoColor=black)
-![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat&logo=prettier)
-![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode&logoColor=1572B6)
+![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=nodedotjs)
+![npm](https://img.shields.io/badge/-npm-333?style=flat&logo=npm)
+![ESLint](https://img.shields.io/badge/-ESLint-333?style=flat&logo=eslint&logoColor=4B32C3)
+![Prettier](https://img.shields.io/badge/-Prettier-333?style=flat&logo=prettier)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRETYAKweb&layout=compact&theme=dark)
@@ -35,8 +34,6 @@
 ![AdobeLightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tretyak_design)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRETYAKweb&layout=compact)
 
 <!--
 **TRETYAKweb/TRETYAKweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

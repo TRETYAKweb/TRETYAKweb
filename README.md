@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yevhenii
 
-## I'm a FrontEnd Developer, and UI/UX Designer
+### I'm a FrontEnd Developer, and UI/UX Designer
 
 ## ⚡ Tech that I'm skilled in
 

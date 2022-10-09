@@ -15,7 +15,6 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=flat&logo=jQuery&logoColor=blue)
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=flat&logo=Gulp)
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode&logoColor=1572B6)
-![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=nodedotjs)
 ![npm](https://img.shields.io/badge/-npm-333?style=flat&logo=npm)
 ![ESLint](https://img.shields.io/badge/-ESLint-333?style=flat&logo=eslint&logoColor=4B32C3)
 ![Prettier](https://img.shields.io/badge/-Prettier-333?style=flat&logo=prettier)

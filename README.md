@@ -19,7 +19,7 @@
 ![npm](https://img.shields.io/badge/-npm-333?style=flat&logo=npm)
 ![ESLint](https://img.shields.io/badge/-ESLint-333?style=flat&logo=eslint&logoColor=4B32C3)
 ![Prettier](https://img.shields.io/badge/-Prettier-333?style=flat&logo=prettier)
-![Stylelint](https://img.shields.io/badge/-Stylelint-white?style=flat&logo=stylelint&logoColor=black)
+![Stylelint](https://img.shields.io/badge/-Stylelint-333?style=flat&logo=stylelint&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub)
 

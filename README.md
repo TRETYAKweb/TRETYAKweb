@@ -10,11 +10,14 @@
 
 ![JS](https://img.shields.io/badge/-JavaScript_-f5da55?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/static/v1?style=flat&message=React+Query&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
 ![React Hook Form](https://img.shields.io/static/v1?style=flat&message=React+Hook+Form&color=EC5990&logo=React+Hook+Form&logoColor=FFFFFF&label=)
 ![React Router](https://img.shields.io/static/v1?style=flat&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
 ![MobX](https://img.shields.io/static/v1?style=flat&message=MobX&color=222222&logo=MobX&logoColor=FF9955&label=)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/static/v1?style=flat&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
+![Redux-Saga](https://img.shields.io/static/v1?style=flat&message=Redux-Saga&color=999999&logo=Redux-Saga&logoColor=FFFFFF&label=)
+![Jest](https://img.shields.io/static/v1?style=flat&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat&logo=sass&logoColor=white)
@@ -48,8 +51,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=fff)](https://github.com/TRETYAKweb)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/tretyak_bro)
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/tretyak_bro)
-[![Behance](https://img.shields.io/badge/Behance-333?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tretyak_design)
-[![Dribbble](https://img.shields.io/badge/Dribbble-333?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/tretyak_design)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tretyak_design)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/tretyak_design)
 
 <!--
 **TRETYAKweb/TRETYAKweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,7 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript_-f5da55?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
+![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=react)
 ![React Query](https://img.shields.io/static/v1?style=flat&message=React+Query&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
 ![React Hook Form](https://img.shields.io/static/v1?style=flat&message=React+Hook+Form&color=EC5990&logo=React+Hook+Form&logoColor=FFFFFF&label=)
 ![React Router](https://img.shields.io/static/v1?style=flat&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
